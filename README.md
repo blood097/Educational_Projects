@@ -69,7 +69,7 @@ https://github.com/blood097/Projects/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0
 <br><u>*Направление:*</u> Маркетинг-аналитик, Data Analyst, Аналитик (универсал), BI-аналитик
 <br><u>*Инструменты и навыки:*</u> Python, SQLAlchemy, PostgreSQL, dash, Tableau, продуктовые метрики, построение дашбордов
 <br><u>*Задача:*</u> Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.
-<br>
+<br>https://public.tableau.com/views/__16689422443640/MainDashboard_1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## **12. Выпускной проект: Поведение игроков в зависимости от источника привлечения**
 <br><u>*Направление:*</u> Data Analyst, Аналитик (универсал), Gamedev
