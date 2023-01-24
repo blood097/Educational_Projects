@@ -9,7 +9,7 @@
 <br><u>*Направление:*</u> Data Analyst, Аналитик (универсал), BI-аналитик
 <br><u>*Инструменты и навыки:*</u> Python, Pandas, dash
 <br><u>*Задача:*</u> Создайте интерактивное приложение с помощью одного из веб фреймворков (streamlit/dash/panel), по предложенному макету. Исторические данные и список активов необходимо получить с помощью апи.
-<br>https://github.com/blood097/Educational_Projects/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/Dash_dashboard_assets.ipynb
+<br>https://github.com/blood097/Educational_Projects/blob/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F/Junior_Analyst_in_Syber_Interactive/Dash_dashboard_assets.ipynb
 
 # Проекты Яндекс Практикум
 ## **1. Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов**
